@@ -16,7 +16,7 @@ I recommend checking out Daniel Miessler's blog [danielmiessler.com](https://dan
 
 ## Disclosures
 
-*The below **disclosures** are included for compliance with Obsidian's ]developer policies](https://docs.obsidian.md/Developer+policies)*
+*The below **disclosures** are included for compliance with Obsidian's [developer policies](https://docs.obsidian.md/Developer+policies)*
 
 ### Network Use
 - This plugin requires the API server that is included with [Fabric](https://github.com/danielmiessler/fabric) to be installed, configured, and running. This is the API server that is specified in the "Fabric API Server" field in the settings for this Obsidian plugin.
